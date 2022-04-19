@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0040b7d0-ac84-4cb8-b5c3-af204c798a57": {
+      "ProjectGuid": "0040b7d0-ac84-4cb8-b5c3-af204c798a57",
+      "DisplayName": "AccountsManagement",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
